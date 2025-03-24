@@ -1,0 +1,66 @@
+{
+    "$schema": "https://schemas.wp.org/wp/6.5/theme.json",
+    "version": 2,
+    "title": "Red",
+    "settings": {
+        "color": {
+            "palette": [
+                {
+                    "color": "#975e5e",
+                    "name": "Primary / Active",
+                    "slug": "primary-active"
+                },
+                {
+                    "color": "#7f1414",
+                    "name": "Primary",
+                    "slug": "primary-color"
+                },
+                {
+                    "color": "#15191C",
+                    "name": "Neutral / 950",
+                    "slug": "neutral-950"
+                },
+                {
+                    "color": "#24272b",
+                    "name": "Neutral / 800",
+                    "slug": "neutral-800"
+                },
+                {
+                    "color": "#3D4447",
+                    "name": "Neutral / 600",
+                    "slug": "neutral-600"
+                },
+                {
+                    "color": "#d7cece",
+                    "name": "Neutral / 400",
+                    "slug": "neutral-400"
+                },
+                {
+                    "color": "#fee2e2",
+                    "name": "Neutral / 200",
+                    "slug": "neutral-200"
+                },
+                {
+                    "color": "#fef2f2",
+                    "name": "Neutral / 0",
+                    "slug": "neutral-0"
+                },
+                {
+                    "name": "Transparent",
+                    "slug": "transparent",
+                    "color": "transparent"
+                },
+                {
+                    "name": "Current",
+                    "slug": "current",
+                    "color": "currentcolor"
+                },
+                {
+                    "name": "Inherit",
+                    "slug": "inherit",
+                    "color": "inherit"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,20 @@
+/**
+Theme Name: Swift FSE
+Theme URI: https://wpplover.com/themes/swift-fse/
+Author: WP Plover
+Author URI: https://wpplover.com
+Description: Swift FSE is a multipurpose Full Site Editing theme. Swift FSE theme utilizes the WordPress block editor and the extensions provided by the Plover Kit to create unique and eye-catching web design. Dark mode and mobile optimization can better retain visitors. It’s perfect for agencies, companies, and bloggers to create an impact online website. Startups or marketing campaigns can also easily create landing pages through the block editor, making Swift FSE the fastest and most adaptable theme for any creative endeavor.
+Template: plover
+Requires at least: 6.6
+Tested up to: 6.7
+Requires PHP: 7.4
+Version: 1.0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: swift-fse
+Tags: full-site-editing, editor-style, block-patterns, wide-blocks, block-styles, style-variations, threaded-comments, translation-ready, sticky-post, footer-widgets, custom-background, custom-colors, custom-header, custom-logo, custom-menu, featured-image-header, featured-images, flexible-header, one-column, two-columns, three-columns, full-width-template, rtl-language-support, grid-layout, left-sidebar, right-sidebar, portfolio, blog, news
+*/
+
+.plover-sticky.has-sticky-bottom-border {
+    border-bottom: 1px solid var(--wp--preset--color--neutral-400);
+}

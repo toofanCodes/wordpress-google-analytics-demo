@@ -1,0 +1,48 @@
+2024 August 06 - Version 1.0.18❄️
+* Feature: Breadcrumb, Back to top
+* Compatibility testing with WordPress 6.6
+
+2024 January 13- Version 1.0.17 ❄️
+* Fixed: Minor Changes
+
+2023 December 11- Version 1.0.16 ❄️
+* Fixed: Minor Changes
+
+2023 November 27- Version 1.0.15 ❄️
+* Fixed: Minor Changes related to design
+
+2022 November 01- Version 1.0.14 ❄️
+* Fixed: Minor Changes
+
+2022 August 11- Version 1.0.13 ❄️
+* Fixed: Minor Changes
+
+2021 December 20- Version 1.0.11 ❄️
+* Fixed: Minor Changes
+
+2021 September 18- Version 1.0.10 ❄️
+* Fixed: Minor Changes
+
+2021 January 20- Version 1.0.9 ❄️
+* Fixed: Minor Changes
+
+2021 January 20- Version 1.0.8 ❄️
+* Fixed: Minor Changes
+
+2021 January 15- Version 1.0.7 ❄️
+* Fixed: Minor Changes
+
+2021 January 14- Version 1.0.6 ❄️
+* Fixed: Minor Changes
+
+2021 January 11- Version 1.0.5 ❄️
+* Fixed: Minor Changes
+
+2020 December 11- Version 1.0.4 ❄️
+* Fixed: Minor Changes
+
+2020 December 11- Version 1.0.3 ❄️
+* Fixed: Minor Changes
+
+2020 November 20- Version 1.0.1 ❄️
+* Initial release

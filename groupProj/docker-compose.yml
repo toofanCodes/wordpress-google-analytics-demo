@@ -1,0 +1,53 @@
+version: '3.3'
+
+volumes:
+  data:
+networks:
+  back:
+
+services:
+
+  db:
+    build: .
+    volumes:
+      - ~/data:/var/lib/mysql
+    environment:
+       MYSQL_DATABASE: businessanalytics
+       MYSQL_USER: is5320
+       MYSQL_PASSWORD: 5320ftw
+       MYSQL_ROOT_PASSWORD: 5320ftw
+    container_name: mysql
+    networks:
+      - back
+
+  wordpress:
+    depends_on:
+      - db
+    image: wordpress:latest
+    ports:
+      - 80:80
+      - 443:443
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_USER: is5320
+      WORDPRESS_DB_NAME: businessanalytics
+      WORDPRESS_DB_PASSWORD: 5320ftw
+      WORDPRESS_TABLE_PREFIX: suisp_
+    volumes:
+      - ~/html:/var/www/html
+    container_name: wp
+    networks:
+      - back
+
+  phpmyadmin:
+    depends_on:
+      - db
+    image: phpmyadmin/phpmyadmin
+    restart: always
+    ports:
+      - 8080:80
+    environment:
+      PMA_HOST: db
+    container_name: myadmin
+    networks:
+      - back

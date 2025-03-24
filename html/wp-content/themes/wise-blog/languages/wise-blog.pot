@@ -1,0 +1,569 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-11 12:56+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:29
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:42 inc/customizer-settings/customizer-hub/footer.php:15
+#, php-format
+msgctxt "1: Year, 2: Site Title with home URL"
+msgid "Copyright &copy; %1$s %2$s"
+msgstr ""
+
+#: footer.php:52
+#, php-format
+msgid "Theme: %1$s By %2$s."
+msgstr ""
+
+#: functions.php:64
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:65
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:131
+msgid "small"
+msgstr ""
+
+#: functions.php:132
+msgid "S"
+msgstr ""
+
+#: functions.php:137
+msgid "regular"
+msgstr ""
+
+#: functions.php:138
+msgid "M"
+msgstr ""
+
+#: functions.php:143
+msgid "larger"
+msgstr ""
+
+#: functions.php:144
+msgid "L"
+msgstr ""
+
+#: functions.php:149
+msgid "huge"
+msgstr ""
+
+#: functions.php:150
+msgid "XL"
+msgstr ""
+
+#: functions.php:180
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:182 functions.php:195
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:193
+msgid "Footer Widget Area "
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:65
+msgid "Header Image"
+msgstr ""
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:41 inc/customizer-settings/customizer-hub/single-post.php:106
+msgid "Related Posts"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:247
+msgid "Browse:"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:248
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:249
+msgid "Home"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:250
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:251
+msgid "Archives"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:253
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:255
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:257
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:259
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:261
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:746
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:764
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:782
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:799 inc/class-breadcrumb-trail.php:829
+#: inc/class-breadcrumb-trail.php:869 inc/class-breadcrumb-trail.php:897
+#: inc/class-breadcrumb-trail.php:1251
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:800 inc/class-breadcrumb-trail.php:870
+#: inc/class-breadcrumb-trail.php:1256
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:801 inc/class-breadcrumb-trail.php:1261
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/class-breadcrumb-trail.php:830
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/custom-fonts.php:11
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/custom-fonts.php:15
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/custom-fonts.php:19
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/enqueue.php:54
+msgid "Refresh the page after Save and Publish."
+msgstr ""
+
+#: inc/enqueue.php:55
+msgid ""
+"Warning!!! This will reset all the settings. Refresh the page after Save and "
+"Publish to reset all."
+msgstr ""
+
+#: inc/template-functions.php:10
+msgid "--Default--"
+msgstr ""
+
+#: inc/template-functions.php:51 inc/template-functions.php:69
+msgid "--Select--"
+msgstr ""
+
+#: inc/template-tags.php:62
+msgid " "
+msgstr ""
+
+#: inc/template-tags.php:80
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:83
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:93
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:110 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/custom-widgets/social-widget.php:14
+msgid "Retrive Social Widget"
+msgstr ""
+
+#: inc/custom-widgets/social-widget.php:18
+msgid "Artify Widget: Social Widget"
+msgstr ""
+
+#: inc/custom-widgets/social-widget.php:74
+#: inc/custom-widgets/tile-list-widget.php:106
+msgid "Section Title:"
+msgstr ""
+
+#: inc/custom-widgets/social-widget.php:82
+#, php-format
+msgid "Link %d :"
+msgstr ""
+
+#: inc/custom-widgets/tile-list-widget.php:14
+msgid "Retrive Tile List Widgets"
+msgstr ""
+
+#: inc/custom-widgets/tile-list-widget.php:18
+msgid "Artify Widget: Tile List Widget"
+msgstr ""
+
+#: inc/custom-widgets/tile-list-widget.php:110
+msgid "Number of posts to displace or pass over:"
+msgstr ""
+
+#: inc/custom-widgets/tile-list-widget.php:114
+msgid "Select the category to show posts:"
+msgstr ""
+
+#: inc/customizer-settings/customizer.php:52
+msgid "Display Site Title and Tagline"
+msgstr ""
+
+#: inc/customizer-settings/customizer.php:68
+msgid "Archive Posts Title"
+msgstr ""
+
+#: inc/customizer-settings/customizer.php:108
+msgid "Archive Posts Sub Title"
+msgstr ""
+
+#: inc/customizer-settings/customizer.php:128
+msgid "Site tagline Color"
+msgstr ""
+
+#: inc/customizer-settings/customizer.php:146
+msgid "Enable Homepage Content"
+msgstr ""
+
+#: inc/customizer-settings/customizer.php:147
+msgid "Check to enable the selected homepage content on the front page."
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/archive-options.php:9
+msgid "Blog / Archive Pages Options"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/archive-options.php:26
+msgid "Excerpt Length (no. of words)"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/archive-options.php:50
+msgid "Column Layout"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/archive-options.php:54
+msgid "Column 1"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/archive-options.php:55
+msgid "Column 2"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/archive-options.php:56
+msgid "Column 3"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/archive-options.php:57
+msgid "Column 4"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/archive-options.php:76
+#: inc/customizer-settings/customizer-hub/single-post.php:28
+msgid "Enable Category"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/archive-options.php:98
+#: inc/customizer-settings/customizer-hub/single-post.php:50
+msgid "Enable Author"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/archive-options.php:120
+#: inc/customizer-settings/customizer-hub/single-post.php:72
+msgid "Enable Date"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/breadcrumb.php:9
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/breadcrumb.php:27
+msgid "Enable breadcrumb."
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/breadcrumb.php:47
+msgid "Separator"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/font-options.php:11
+msgid "Font ( Typography ) Options"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/font-options.php:28
+msgid "Site Title Font Family"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/font-options.php:48
+msgid "Site Description Font Family"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/font-options.php:68
+msgid "Header Font Family"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/font-options.php:88
+msgid "Body Font Family"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/footer.php:10
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/footer.php:29
+msgid "Copyright text"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/pagination.php:10
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/pagination.php:29
+msgid "Enable Pagination."
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/pagination.php:49
+msgid "Pagination Style"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/pagination.php:53
+msgid "Default (Older/Newer)"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/pagination.php:54
+msgid "Numeric"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/sidebar-layout.php:9
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/sidebar-layout.php:26
+msgid "Archive Sidebar Position"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/sidebar-layout.php:30
+#: inc/customizer-settings/customizer-hub/sidebar-layout.php:52
+#: inc/customizer-settings/customizer-hub/sidebar-layout.php:74
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/sidebar-layout.php:31
+#: inc/customizer-settings/customizer-hub/sidebar-layout.php:53
+#: inc/customizer-settings/customizer-hub/sidebar-layout.php:75
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/sidebar-layout.php:48
+msgid "Post Sidebar Position"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/sidebar-layout.php:70
+msgid "Page Sidebar Position"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/single-post.php:9
+msgid "Single Post Options"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/single-post.php:94
+msgid "Enable Post Tag"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/single-post.php:114
+msgid "Related Posts Title"
+msgstr ""
+
+#: inc/customizer-settings/customizer-hub/theme-options-sections.php:10
+msgid "Customizer Hub"
+msgstr ""
+
+#: inc/customizer-settings/frontpage-customizer/banner.php:13
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer-settings/frontpage-customizer/banner.php:31
+msgid "Enable Banner Section"
+msgstr ""
+
+#: inc/customizer-settings/frontpage-customizer/banner.php:51
+#: inc/customizer-settings/frontpage-customizer/editor-choice.php:101
+msgid "Content type:"
+msgstr ""
+
+#: inc/customizer-settings/frontpage-customizer/banner.php:52
+#: inc/customizer-settings/frontpage-customizer/editor-choice.php:102
+msgid "Choose where you want to render the content from."
+msgstr ""
+
+#: inc/customizer-settings/frontpage-customizer/banner.php:57
+#: inc/customizer-settings/frontpage-customizer/editor-choice.php:107
+msgid "Post"
+msgstr ""
+
+#: inc/customizer-settings/frontpage-customizer/banner.php:58
+#: inc/customizer-settings/frontpage-customizer/banner.php:96
+#: inc/customizer-settings/frontpage-customizer/editor-choice.php:108
+#: inc/customizer-settings/frontpage-customizer/editor-choice.php:146
+msgid "Category"
+msgstr ""
+
+#: inc/customizer-settings/frontpage-customizer/banner.php:75
+#: inc/customizer-settings/frontpage-customizer/editor-choice.php:125
+#, php-format
+msgid "Post %d"
+msgstr ""
+
+#: inc/customizer-settings/frontpage-customizer/customizer-sections.php:7
+msgid "Frontpage Sections"
+msgstr ""
+
+#: inc/customizer-settings/frontpage-customizer/editor-choice.php:13
+msgid "Editor Choice Section"
+msgstr ""
+
+#: inc/customizer-settings/frontpage-customizer/editor-choice.php:31
+msgid "Enable Editor Choice Section"
+msgstr ""
+
+#: inc/customizer-settings/frontpage-customizer/editor-choice.php:43
+#: inc/frontpage-sections/editor-choice.php:46
+msgid "Editor Choice"
+msgstr ""
+
+#: inc/customizer-settings/frontpage-customizer/editor-choice.php:51
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer-settings/frontpage-customizer/editor-choice.php:83
+msgid "Section Subtitle"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content-single.php:80
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:68
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
