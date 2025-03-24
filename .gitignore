@@ -1,0 +1,61 @@
+# Ignore configuration files that contain sensitive information
+wp-config.php
+wp-config-docker.php
+wp-config-sample.php
+
+# Ignore private keys and certificates
+data/*.pem
+
+# Ignore specific WordPress directories that store uploads, backups, and cached data
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backups/
+wp-content/cache/
+wp-content/blogs.dir/
+wp-content/backup-db/
+
+# Ignore large file storage areas that might not be directly part of the project's source
+/wp-content/uploads/
+
+# Ignore system-specific files
+*.log
+*.sql
+*.back
+*.swap
+*.cache
+
+# Ignore the file that stores SSH known hosts, as it's specific to each environment
+.ssh/known_hosts
+
+# Ignore node modules if using Node.js in your project
+node_modules/
+
+# Ignore other common paths that should not be part of the repository
+/.bash_history
+/.gitconfig
+/.local
+/.ssh
+/.cache
+/.nano
+/wp-config.php
+/wp-content/debug.log
+/wp-content/uploads/
+/wp-content/upgrade/
+/wp-content/backups/
+/wp-content/cache/
+wp-config.php
+wp-content/uploads/
+*.sql
+node_modules/
+
+# MySQL files
+data/*.sock
+data/*.lock
+
+# Ignore all log files and databases
+*.log
+*.sql
+
+.sudo_as_admin_successful
+data/
+html/
